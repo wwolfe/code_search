@@ -28,3 +28,7 @@ example: cs -n *txt pattern
 - Scenario you want to make the same edit in multiple files.  you want to know which ones you edited sometimes you just want to mark as done sometimes you want to just refresh the list so it disappears.
 - Cache file list so it does not have to run find again.
 - Exclude using .gitignore
+
+# Demo
+
+[![asciicast](https://asciinema.org/a/PTwdOyhNDTkUGjGSxOJVyEH6G.svg)](https://asciinema.org/a/PTwdOyhNDTkUGjGSxOJVyEH6G)
