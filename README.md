@@ -13,6 +13,9 @@ Usage: cs [-i|-n expression_for_file_search ] reg_exp_pattern
 
 example: cs -n *txt pattern
 
+## Install
+- clone repo
+- copy cs file to /usr/local/bin/cs
 
 ## Ideas
 
